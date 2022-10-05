@@ -1,0 +1,57 @@
+.main-page {
+    background-color: #F8F9FA;
+}
+
+.boo-contener {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 1px #BCBCBC solid;
+    border-radius: 10px 10px 10px 10px ;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+
+}
+
+img {
+    border-radius: 100%;
+}
+
+.card-two-mine {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 1px #BCBCBC solid;
+    border-radius: 10px 10px 10px 10px ;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+
+.Reach-me-mine {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 1px #BCBCBC solid;
+    border-radius: 10px 10px 10px 10px ;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+
+.blog-mine {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border: 1px #BCBCBC solid;
+    border-radius: 10px 10px 10px 10px ;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
